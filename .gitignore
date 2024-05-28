@@ -18,3 +18,4 @@ yarn-error.log
 /.idea
 /.vscode
 /breeze-next/node_modules
+/breeze-next/.next
