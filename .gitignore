@@ -23,4 +23,4 @@ yarn-error.log
 /breeze-next/.env.local
 /breeze-next/.env.example
 /breeze-next/credentials
-/breeze-next/data
+/breeze-next/src/app/data
