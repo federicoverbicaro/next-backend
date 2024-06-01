@@ -19,3 +19,8 @@ yarn-error.log
 /.vscode
 /breeze-next/node_modules
 /breeze-next/.next
+/breeze-next/src/app/api
+/breeze-next/.env.local
+/breeze-next/.env.example
+/breeze-next/credentials
+/breeze-next/data
